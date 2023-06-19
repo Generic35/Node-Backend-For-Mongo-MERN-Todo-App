@@ -16,5 +16,5 @@ DELETE http://localhost:3001/todo/delete/64900bc04f9105d2678236a3
 
 ###
 
-PUT http://localhost:3001/todo/complete/64900bc04f9105d2678236a3
+GET http://localhost:3001/todo/complete/64900bc04f9105d2678236a3
 
